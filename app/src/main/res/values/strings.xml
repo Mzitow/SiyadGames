@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Games</string>
+    <string name="success">Success</string>
+    <string name="next">Next</string>
+    <string name="restart">Restart</string>
+    <string name="ok">Ok</string>
+    <string name="exit">Exit</string>
+    <string name="complete">Complete</string>
+    <string name="tips">Tips</string>
+</resources>
